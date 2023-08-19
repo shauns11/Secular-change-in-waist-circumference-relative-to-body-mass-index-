@@ -1,6 +1,10 @@
 # Sex differences in the secular change in waist circumference relative to body mass index in the Americas and England. Results from five national health examination surveys 1997-2020
 
-Luz M Sánchez-Romero<sup>1</sup>, , Shaun Scholes<sup>3</sup>
+Luz M Sánchez-Romero<sup>1</sup>, Janine Sagaceta<sup>2</sup>, Álvaro Passi<sup>3</sup>, Antonio Bernabé-Ortiz<sup>4</sup>, Shaun Scholes<sup>3</sup>
+<sup>1</sup> Lombardi Comprehensive Cancer Center, Georgetown University, Washington, DC. USA
+<sup>2</sup> Centro de Investigación en Nutrición y Salud, National Institute of Public Health Mexico 
+<sup>3</sup> Research Department of Epidemiology and Public Health, UCL, London, UK
+<sup>4</sup> CRONICAS Center of Excellence in Chronic Diseases, Universidad Peruana Cayetano Heredia, Lima Peru
 
 
 Background
