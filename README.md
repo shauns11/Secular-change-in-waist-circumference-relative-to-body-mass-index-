@@ -1,5 +1,8 @@
 # Sex differences in the secular change in waist circumference relative to body mass index in the Americas and England. Results from five national health examination surveys 1997-2020
 
+Luz M Sánchez-Romero<sup>1</sup>, , Shaun Scholes<sup>3</sup>
+
+
 Background
 A few global studies have shown secular increases in mean waist circumference relative to body mass index (BMI), especially in women. To update and expand on these research efforts, we used data from nationally-representative health examination surveys in the Americas (US, Mexico, Chile, and Peru) and in England to quantify recent changes over time in BMI, waist circumference, and waist circumference relative to BMI, and explore differences by sex. 
 
