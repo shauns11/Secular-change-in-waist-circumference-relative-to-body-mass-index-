@@ -6,7 +6,7 @@ Luz M Sánchez-Romero<sup>1</sup>, Janine Sagaceta<sup>2</sup>, Álvaro Passi<su
 <br><sup>3</sup> Research Department of Epidemiology and Public Health, UCL, London, UK
 <br><sup>4</sup> CRONICAS Center of Excellence in Chronic Diseases, Universidad Peruana Cayetano Heredia, Lima Peru
 
-Background
+Background <br/>
 A few global studies have shown secular increases in mean waist circumference (WC) relative to body mass index (BMI), especially in women. To update and expand on these research efforts, we used data from nationally-representative health examination surveys in the Americas (United States of America (US), Mexico, Chile, and Peru) and in England to quantify recent changes over time in BMI, WC, and WC relative to BMI, and explore differences by sex. 
 
 Methods
